@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mateus Montanher
 - 🧑‍🦰 I am 16 years Old
-- 👀 I’m interested in ML development
+- 👀 I’m interested in ML development and Embedded Systems
 - 🌱 I’m currently learning Scikit-Learn and similar tools
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me Mateus or mat
